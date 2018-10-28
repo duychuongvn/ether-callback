@@ -1,0 +1,10 @@
+network:
+  rpc: 'https://clo-geth.0xinfra.com'
+  address: '0x3fca27390cd1521a5b971c0ec43c70246a1d19bf'
+  privateKey: ''
+  gasPrice: 20
+  gasLimit: 210000
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/ethercallback

@@ -1,0 +1,10 @@
+network:
+  rpc: 'https://etzrpc.org:443'
+  address: '0x31dc6113ceab3c0af43ddc09dd85aeb3a257645f'
+  privateKey: ''
+  gasPrice: 20
+  gasLimit: 210000
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/ethercallback
